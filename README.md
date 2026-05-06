@@ -5,4 +5,7 @@ Started Python practice
 
 ## Day 2
 - Learned Python basics
-- Created the first script 
+- Created the first script
+
+# commit 1
+print("hello")
