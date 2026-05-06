@@ -20,4 +20,30 @@ print("hello base")
 print("this time now to lonch")
 
 ## commit 5
-print("base last 1 year to I join")
+print("base last 1 year to I join") 
+
+## commit 6
+# Variables example
+a = 10
+b = 20
+print(a + b) 
+
+## commit 7
+# User input
+name = input("Enter name: Ritik")
+print("Hello", name)
+
+## commit 8
+# If-else condition
+num = 5
+if num > 0:
+    print("Positive")
+
+## commit 9
+# Loop example
+for i in range(5):
+    print(i)
+
+    
+
+
