@@ -57,5 +57,22 @@ def greet():
     print("Welcome")
 greet() 
 
+## commit 12
+# Sum function
+def add(a, b):
+    return a + b
+print(add(3, 4))
+
+## commit 13
+# List example
+nums = [1,2,3]
+print(nums)
+
+## commit 14
+# List loop
+for n in [1,2,3]:
+    print(n) 
+
+
 
 
