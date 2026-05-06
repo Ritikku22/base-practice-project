@@ -183,3 +183,80 @@ print(square(5))
 ## commit 35
 # End of challenge
 print("50 commits completed")
+
+## commit 36
+# Check even numbers in list
+nums = [1,2,3,4,5]
+print([n for n in nums if n%2==0])
+
+## commit 37
+# Count words
+text = "learn python fast"
+print(len(text.split()))
+
+
+## commit 38
+# Find the largest number
+nums = [10, 25, 5]
+print(max(nums))
+
+## commit 39
+# Find the smallest number
+nums = [10, 25, 5]
+print(min(nums))
+
+## commit 40
+# Convert string to uppercase
+print("python".upper())
+
+## commit 41
+# Convert string to lowercase
+print("HELLO".lower())
+
+## commit 42
+# Check substring
+text = "python programming"
+print("python" in text)
+
+## commit 43
+# Sum of list
+nums = [1,2,3,4]
+print(sum(nums)) 
+
+## commit 44
+# Multiply list values
+result = 1
+for n in [1,2,3,4]:
+    result *= n
+print(result)
+
+## commit 45
+# Find length of list
+print(len([1,2,3,4,5]))
+
+## commit 46
+# Merge two lists
+a = [1,2]
+b = [3,4]
+print(a + b)
+
+## commit 47
+# Remove element from list
+lst = [1,2,3]
+lst.remove(2)
+print(lst)
+
+## commit 48
+# Dictionary keys
+d = {"a":1,"b":2}
+print(d.keys())
+
+## commit 49
+# Dictionary values
+d = {"a":1,"b":2}
+print(d.values())
+
+## commit 50
+# Final message
+print("Challenge Completed Successfully")
+
