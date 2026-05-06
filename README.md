@@ -9,3 +9,6 @@ Started Python practice
 
 # commit 1
 print("hello")
+
+# commit 2
+print("ritik")
