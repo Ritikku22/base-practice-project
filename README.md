@@ -44,6 +44,18 @@ if num > 0:
 for i in range(5):
     print(i)
 
-    
+## commit 10
+# While loop
+i = 1
+while i <= 5:
+    print(i)
+    i += 1
+
+## commit 11
+# Function example
+def greet():
+    print("Welcome")
+greet() 
+
 
 
