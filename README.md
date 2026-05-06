@@ -73,6 +73,28 @@ print(nums)
 for n in [1,2,3]:
     print(n) 
 
+## commit 15
+# String reverse
+text = "python"
+print(text[::-1])
 
+## commit 16
+# Even odd
+n = 4
+print("Even" if n%2==0 else "Odd")
+
+## commit 17
+# Factorial
+fact = 1
+for i in range(1,6):
+    fact *= i
+print(fact)
+
+## commit 18
+# Fibonacci
+a,b = 0,1
+for _ in range(5):
+    print(a)
+    a,b = b,a+b
 
 
