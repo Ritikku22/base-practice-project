@@ -262,3 +262,16 @@ print(d.values())
 # Final message
 print("Challenge Completed Successfully")
 
+## commit
+# Check leap year
+year = 2024
+if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+    print("Leap Year")
+else:
+    print("Not Leap Year")
+
+## commit
+# Count digits in a number
+num = 12345
+print(len(str(num)))
+
