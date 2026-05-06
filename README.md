@@ -97,4 +97,12 @@ for _ in range(5):
     print(a)
     a,b = b,a+b
 
+## commit 19
+# Dictionary
+d = {"a":1,"b":2}
+print(d)
 
+## commit 20
+# Set example
+s = {1,2,3}
+print(s)
