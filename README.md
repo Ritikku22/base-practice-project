@@ -20,7 +20,8 @@ print("hello base")
 print("this time now to lonch")
 
 ## commit 5
-print("base last 1 year to I join") 
+print("base last 1 year to I join")
+....
 
 ## commit 6
 # Variables example
@@ -55,7 +56,8 @@ while i <= 5:
 # Function example
 def greet():
     print("Welcome")
-greet() 
+greet()
+.....
 
 ## commit 12
 # Sum function
